@@ -25,6 +25,8 @@ setup(
         'pub_pt_msg = a_team.pub_pt_msg:main',
         'timer_test = a_team.timer_test:main',
         'green = a_team.test_green:main',
+
+        'auto_driving = a_team.auto_driving:main',    
         ],
     },
 )
